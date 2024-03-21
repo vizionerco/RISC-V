@@ -1,0 +1,1 @@
+Unless otherwise stated below or in the particular folder or document, the documents in this repository are released under a Creative Commons Attribution 4.0 International License. Please use and cite accordingly.
