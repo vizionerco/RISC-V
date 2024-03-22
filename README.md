@@ -1,3 +1,11 @@
+About Reposity
+
+This repository includes documents, source codes and related work for my (see below owner section) attemp to design RISC-V cores and suport materials.
+
+requirements/ folder is for requirements list of RISC-V derived from official documents
+requirements/RL_Unprivileged_ISA_20191213.pdf : Requirements list of unprevileged ISA V20191213
+requirements/RL_Privileged_ISA_20211203.pdf : Requirements list of previleged ISA V20211203
+
 About Reposity Owner
 
 After 34 years of my career, I retired from my regular job in 2023. 
