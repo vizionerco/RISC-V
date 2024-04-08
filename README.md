@@ -3,12 +3,18 @@ About Reposity
 This repository includes documents, source codes and related work for my (see below owner section) attemp to design RISC-V cores and suport materials.
 
 requirements/ folder is for requirements list of RISC-V derived from official documents
-requirements/RL_Unprivileged_ISA_20191213.pdf : Requirements list of The RISC-V Instruction Set Manual Volume I: Unprivileged ISA V20191213 
+requirements/RL_Unprivileged_ISA_20191213.pdf : Requirements list of The RISC-V Instruction Set Manual Volume I: Unprivileged ISA V20191213
+
 requirements/RL_Privileged_ISA_20211203.pdf : Requirements list of The RISC-V Instruction Set Manual Volume II: Privileged Architecture V20211203 
+
 requirements/RL_AIA_V1_0.pdf : Requirements list of The RISC-V Advanced Interrupt Architecture version 1.0
+
 requirements/RL_SBI_V2_0.pdf : Requirements list of RISC-V Supervisor Binary Interface Specification, document version 2.0
+
 requirements/RL_UEFI_V1_0.pdf : Requirements list of RISC-V UEFI PROTOCOL Specification, document version 1.0
+
 requirements/RL_ABIs_V1_0.pdf : Requirements List of RISC-V ABIs Specification, Document Version 1.0
+
 
 About Reposity Owner
 
