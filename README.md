@@ -10,12 +10,13 @@ requirements/RL_Privileged_ISA_20211203.pdf : Requirements list of The RISC-V In
 
 requirements/RL_AIA_V1_0.pdf : Requirements list of The RISC-V Advanced Interrupt Architecture version 1.0
 
+requirements/RL_PLIC_V1_0_0.pdf : Requirements List of RISC-V Platform-Level Interrupt Controller Specification, Version 1.0.0 
+
 requirements/RL_SBI_V2_0.pdf : Requirements list of RISC-V Supervisor Binary Interface Specification, document version 2.0
 
 requirements/RL_UEFI_V1_0.pdf : Requirements list of RISC-V UEFI PROTOCOL Specification, document version 1.0
 
 requirements/RL_ABIs_V1_0.pdf : Requirements List of RISC-V ABIs Specification, Document Version 1.0
-
 
 About Reposity Owner
 
