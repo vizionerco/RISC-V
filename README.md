@@ -8,6 +8,10 @@ requirements/RL_Unprivileged_ISA_20191213.pdf : Requirements list of The RISC-V 
 
 requirements/RL_Privileged_ISA_20211203.pdf : Requirements list of The RISC-V Instruction Set Manual Volume II: Privileged Architecture V20211203 
 
+requirements/RL_IOMMU_V1_0.pdf : Requirements list of The RISC-V IOMMU Architecture Specification version 1.0
+
+requirements/RL_PLIC_V1_0_0.pdf : Requirements list of RISC-V Platform-Level Interrupt Controller Specification version 1.0
+
 requirements/RL_AIA_V1_0.pdf : Requirements list of The RISC-V Advanced Interrupt Architecture version 1.0
 
 requirements/RL_PLIC_V1_0_0.pdf : Requirements List of RISC-V Platform-Level Interrupt Controller Specification, Version 1.0.0 
