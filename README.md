@@ -14,13 +14,13 @@ requirements/RL_PLIC_V1_0_0.pdf : Requirements list of RISC-V Platform-Level Int
 
 requirements/RL_AIA_V1_0.pdf : Requirements list of The RISC-V Advanced Interrupt Architecture version 1.0
 
-requirements/RL_PLIC_V1_0_0.pdf : Requirements List of RISC-V Platform-Level Interrupt Controller Specification, Version 1.0.0 
-
 requirements/RL_SBI_V2_0.pdf : Requirements list of RISC-V Supervisor Binary Interface Specification, document version 2.0
 
 requirements/RL_UEFI_V1_0.pdf : Requirements list of RISC-V UEFI PROTOCOL Specification, document version 1.0
 
 requirements/RL_ABIs_V1_0.pdf : Requirements List of RISC-V ABIs Specification, Document Version 1.0
+
+requirements/RL_Trace_V2_03.pdf : Requirements List of Efficient Trace for RISC-V Version 2.0.3 
 
 About Reposity Owner
 
