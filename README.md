@@ -22,6 +22,8 @@ requirements/RL_ABIs_V1_0.pdf : Requirements List of RISC-V ABIs Specification, 
 
 requirements/RL_Trace_V2_03.pdf : Requirements List of Efficient Trace for RISC-V Version 2.0.3 
 
+requirements/RL_Debug_V0_13_2.pdf : Requirements List of RISC-V External Debug Support version 0.13.2
+
 About Reposity Owner
 
 After 34 years of my career, I retired from my regular job in 2023. 
